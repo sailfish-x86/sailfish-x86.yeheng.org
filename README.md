@@ -6,6 +6,7 @@ It should run on most devices that can boot Ubuntu 20.04 LTS. The current device
 
   * Dell XPS 15 2-in-1 (9575)
   * Thinkpad X200T
+  * Thinkpad X230T
   * Asus Transformer Mini T103H
   
 As of version v0.1, installation is rather difficult. It consists of unpacking a tarball onto a disk and installing GRUB to it. Soon I will make an ISO file to load onto your disk without messing with bootloaders.
@@ -14,7 +15,19 @@ As of version v0.1, installation is rather difficult. It consists of unpacking a
 
 Please see https://docs.sailfish-x86.yeheng.org for documentation on Sailfish-x86.
 
-# Disclaimers and Credits
+## Status
+
+Most things work, but battery loses charge slightly faster due to the absence of correct suspend. However, if correct suspend is implemented, it will break double tap to wake and notifications. 
+
+## Pictures and Videos
+
+Sailfish x86 on Dell XPS 15 2-in-1 (9575) <a href="https://nitter.net/hengyedev/status/1341374202637643777">Video</a>
+
+Thinkpad X200T 
+
+<img src="https://nitter.net/pic/media%2FEp9EEyiW4AAjt86.jpg%3Fname%3Dorig" alt="Sailfish OS on a Thinkpad" />
+
+## Credits
 
 Note: Sailfish x86 does not have any affiliation with Jolla Ltd. 
 
