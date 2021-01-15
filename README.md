@@ -30,11 +30,14 @@ Thinkpad X200T
 
 <img src="https://nitter.net/pic/media%2FEp9EEyiW4AAjt86.jpg%3Fname%3Dorig" alt="Sailfish OS on a Thinkpad" />
 
-GPD Pocket
+GPD Pocket (Picture by @jgibbon)
 
 <img src="gpdpocket.jpg" alt="Sailfish OS on GPD Pocket" /> 
 
-Picture by @jgibbon
+Asus X554L (Picture by Diego)
+
+<img src="asusx554l.jpg" alt="Sailfish OS on Asus X554L laptop />
+
 
 ## Credits
 
