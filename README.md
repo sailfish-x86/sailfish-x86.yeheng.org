@@ -9,6 +9,7 @@ It should run on most devices that can boot Ubuntu 20.04 LTS. The current device
   * Thinkpad X230T (community: ExPLIT)
   * Asus Transformer Mini T103H
   * Dell Latitude E7450 (community: duvi)
+  * GPD Pocket (community: jgibbon)
   
 As of version v0.1, installation is rather difficult. It consists of unpacking a tarball onto a disk and installing GRUB to it. Soon I will make an ISO file to load onto your disk without messing with bootloaders.
 
@@ -27,6 +28,12 @@ Sailfish x86 on Dell XPS 15 2-in-1 (9575) <a href="https://nitter.net/hengyedev/
 Thinkpad X200T 
 
 <img src="https://nitter.net/pic/media%2FEp9EEyiW4AAjt86.jpg%3Fname%3Dorig" alt="Sailfish OS on a Thinkpad" />
+
+GPD Pocket 2
+
+<img src="gpdpocket.jpg" alt="Sailfish OS on GPD Pocket" /> 
+
+Picture by @jgibbon
 
 ## Credits
 
