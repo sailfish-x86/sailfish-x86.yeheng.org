@@ -29,7 +29,7 @@ Thinkpad X200T
 
 <img src="https://nitter.net/pic/media%2FEp9EEyiW4AAjt86.jpg%3Fname%3Dorig" alt="Sailfish OS on a Thinkpad" />
 
-GPD Pocket 2
+GPD Pocket
 
 <img src="gpdpocket.jpg" alt="Sailfish OS on GPD Pocket" /> 
 
