@@ -6,8 +6,9 @@ It should run on most devices that can boot Ubuntu 20.04 LTS. The current device
 
   * Dell XPS 15 2-in-1 (9575)
   * Thinkpad X200T
-  * Thinkpad X230T
+  * Thinkpad X230T (community: ExPLIT)
   * Asus Transformer Mini T103H
+  * Dell Latitude E7450 (community: duvi)
   
 As of version v0.1, installation is rather difficult. It consists of unpacking a tarball onto a disk and installing GRUB to it. Soon I will make an ISO file to load onto your disk without messing with bootloaders.
 
