@@ -24,6 +24,10 @@ Most things work, but battery loses charge slightly faster due to the absence of
 
 ## Pictures and Videos
 
+Featured on the Sailfish OS Podcast!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k6io9J2bPDQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Sailfish x86 on Dell XPS 15 2-in-1 (9575) <a href="https://nitter.net/hengyedev/status/1341374202637643777">Video</a>
 
 Thinkpad X200T 
